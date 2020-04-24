@@ -18,7 +18,7 @@ If you decide to run this locally you should have pyspark installed on your mach
 To predict users actions before happening to avoid economical issues
 
 # Results
-After applying a machime learning model we can say that we can predict users that are about to cancel their subscription with 0.99 accuracy
+After applying a machine learning model we can say that we can predict users that are about to cancel their subscription with 0.99 accuracy
 
 # License
 This project is under [GNU LICENSE](https://github.com/YoussefAli99/Sparkify/blob/master/LICENSE)
